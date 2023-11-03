@@ -4,9 +4,9 @@ Welcome to my GitHub repository for my data analyst portfolio website! This webs
 Skills
 I have experience in the following data analysis skills:
 
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization
-Statistical Analysis
-Machine Learning
-Data Interpretation and Reporting
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Data Interpretation and Reporting
+
